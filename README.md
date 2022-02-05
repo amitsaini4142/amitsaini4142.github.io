@@ -1,5 +1,7 @@
 # Bluestack Campaigns
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1b950a75-c1d9-49a8-adbf-2bf26b4430da/deploy-status)](https://app.netlify.com/sites/amit-saini-demo/deploys)
+
 This project was build with Angular. IndexedDB is used for holding Campaigns data.
 
 ## Live Demo
